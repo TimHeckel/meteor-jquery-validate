@@ -1,0 +1,8 @@
+{
+    "name": "jquery-validate",
+    "description": "Easy and Quick form validation in jQuery",
+    "homepage": "https://github.com/TimHeckel/meteor-jquery-validate",
+    "author": "Tim Heckel  (http://timheckel.com)",
+    "version": "0.1.0",
+    "git": "https://github.com/TimHeckel/meteor-jquery-validate.git"
+}
